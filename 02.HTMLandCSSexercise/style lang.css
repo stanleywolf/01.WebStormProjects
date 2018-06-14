@@ -1,0 +1,12 @@
+span{
+    background: #EEEEEE;
+    background-color: grey;
+    border-radius: 10px;
+    border: 1px #AAAAAA;
+    padding: 5px;
+    line-height: 1.5em;
+    font-size: 24pt;
+}
+P{
+    font-size: 24pt;
+}

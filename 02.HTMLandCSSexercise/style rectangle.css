@@ -1,0 +1,15 @@
+div{
+    padding: 15px;
+    border:1px dotted blue ;
+    border-radius: 15px;
+    text-align: center;
+    font-size: larger;
+}
+div div{
+    border-style: dashed;
+    border-color: red;
+}
+div div div{
+    border-style: solid;
+    border-color: green;
+}
